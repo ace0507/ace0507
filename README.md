@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=YEONSU's%20CodeRoom🧸&fontSize=70&fontColor=7C0871)
 
-프론트엔드 개발자를 목표로 매일 조금씩 성장하고 있는 강연수입니다.😃
+#프론트엔드 개발자를 목표로 매일 조금씩 성장하고 있는 강연수입니다.😃
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Face0507&count_bg=%23ADADAD&title_bg=%237C0871&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
